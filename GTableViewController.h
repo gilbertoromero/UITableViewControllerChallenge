@@ -1,5 +1,5 @@
 //
-//  GViewController.h
+//  GTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by GAMELOFT on 9/19/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface GViewController : UIViewController
+@interface GTableViewController : UITableViewController
 
 @end
